@@ -4,7 +4,8 @@ A browser-based **multiplayer skateboarding game** built with Three.js, the Kenn
 
 Built for a game-jam hackathon. Fast to load, fun to watch, easy to lose an afternoon to.
 
-![Mini Skate preview](mini-skate/Preview.png)
+<img width="1254" height="1254" alt="skate" src="https://github.com/user-attachments/assets/c076e193-0c8f-4dcb-ab1b-e078a90cbab2" />
+
 
 ---
 
