@@ -4,8 +4,9 @@ A browser-based **multiplayer skateboarding game** built with Three.js, the Kenn
 
 Built for a game-jam hackathon. Fast to load, fun to watch, easy to lose an afternoon to.
 
-<img width="1254" height="1254" alt="skate" src="https://github.com/user-attachments/assets/c076e193-0c8f-4dcb-ab1b-e078a90cbab2" />
+**▶ Play the demo:** https://lalomorales22.github.io/threejskate/ — single-player only (no Node server on Pages, so multiplayer / leaderboard / round timer are inactive). Clone + `npm run dev` for the full multiplayer build.
 
+<img width="1254" height="1254" alt="skate" src="https://github.com/user-attachments/assets/c076e193-0c8f-4dcb-ab1b-e078a90cbab2" />
 
 ---
 
