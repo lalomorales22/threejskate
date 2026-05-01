@@ -1,0 +1,37 @@
+{
+  "name": "threejskate",
+  "version": "0.2.0",
+  "description": "Multiplayer skateboarding jam — Three.js client + Node/ws server.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Lalo Morales",
+  "homepage": "https://github.com/lalomorales22/threejskate#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalomorales22/threejskate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lalomorales22/threejskate/issues"
+  },
+  "keywords": [
+    "threejs",
+    "skateboarding",
+    "multiplayer",
+    "websocket",
+    "game",
+    "kenney"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "node --watch server/index.js",
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.5.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "ws": "^8.18.0"
+  }
+}
